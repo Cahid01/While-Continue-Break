@@ -6,5 +6,6 @@ while number > 1:
     else:
         number = number * 3 + 1
     count += 1
-    print(f"{number}" )
+    print(number)
+    print ("---")
 print (f"{count} addima 1 e catdi")
